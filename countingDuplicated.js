@@ -31,3 +31,5 @@ function duplicateCount(text) {
 
 const text = "AMJSDFHGUjkasfnsdfaajdsuhfgvnrgf"
 console.log(duplicateCount(text))
+
+// Resolved CODE WARS
