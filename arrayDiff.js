@@ -9,7 +9,7 @@
 
 function arrayDiff(a, b) {
   const newArray = a.filter((value) => {
-    return value != b;
+    return b.indexOf(value) == -1;
   });
 
   return newArray;
