@@ -23,4 +23,4 @@ function duplicateEncode(str) {
   return unique;
 }
 
-console.log(duplicateEncode("BaRaban"));
+console.log(duplicateEncode("American"));
